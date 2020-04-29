@@ -1,0 +1,3 @@
+/Users/fengliu/CLionProjects/HWPrimeThread/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/fengliu/CLionProjects/HWPrimeThread/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/fengliu/CLionProjects/HWPrimeThread/cmake-build-debug/CMakeFiles/HWPrimeThread.dir

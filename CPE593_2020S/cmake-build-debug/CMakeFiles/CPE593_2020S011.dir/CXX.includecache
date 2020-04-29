@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/fengliu/CLionProjects/CPE593_2020S/LiuF_4.cpp
+iostream
+-
+random
+-
+ctime
+-
+cstdlib
+-
+vector
+-
+map
+-
+chrono
+-
+iomanip
+-
+

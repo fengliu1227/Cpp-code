@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="553assignment02" targetName="553assignment0205" />
+      <config projectName="553assignment02" targetName="553assignment0204" />
+      <config projectName="553assignment02" targetName="553assignment0203" />
+      <config projectName="553assignment02" targetName="553assignment0202" />
+      <config projectName="553assignment02" targetName="553assignment0201" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5f74d280-739f-4750-bd7c-780c1f409770" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="ProjectId" id="1XJV7fW4Qpbsi67KmJATQnjmYSN" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RunManager" selected="CMake Application.553assignment0204">
+    <configuration name="553assignment0201" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="553assignment02" TARGET_NAME="553assignment0201" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="553assignment02" RUN_TARGET_NAME="553assignment0201">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="553assignment0202" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="553assignment02" TARGET_NAME="553assignment0202" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="553assignment02" RUN_TARGET_NAME="553assignment0202">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="553assignment0203" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="553assignment02" TARGET_NAME="553assignment0203" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="553assignment02" RUN_TARGET_NAME="553assignment0203">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="553assignment0204" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="553assignment02" TARGET_NAME="553assignment0204" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="553assignment02" RUN_TARGET_NAME="553assignment0204">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="553assignment0205" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="553assignment02" TARGET_NAME="553assignment0205" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="553assignment02" RUN_TARGET_NAME="553assignment0205">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="CMake Application.553assignment0201" />
+      <item itemvalue="CMake Application.553assignment0202" />
+      <item itemvalue="CMake Application.553assignment0203" />
+      <item itemvalue="CMake Application.553assignment0204" />
+      <item itemvalue="CMake Application.553assignment0205" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5f74d280-739f-4750-bd7c-780c1f409770" name="Default Changelist" comment="" />
+      <created>1580764018780</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580764018780</updated>
+      <workItem from="1580764020084" duration="2884000" />
+      <workItem from="1580859526933" duration="628000" />
+      <workItem from="1580945987325" duration="1348000" />
+      <workItem from="1581020930834" duration="2518000" />
+      <workItem from="1581040477602" duration="477000" />
+      <workItem from="1581371209076" duration="12000" />
+      <workItem from="1581371278919" duration="12000" />
+      <workItem from="1581371299423" duration="3000" />
+      <workItem from="1582576714501" duration="5000" />
+      <workItem from="1582576733404" duration="21000" />
+      <workItem from="1582588319550" duration="7000" />
+      <workItem from="1583762747534" duration="2000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1186" height="241" key="GridCell.Tab.0.bottom" timestamp="1582576754167">
+      <screen x="0" y="23" width="1680" height="958" />
+    </state>
+    <state width="1186" height="241" key="GridCell.Tab.0.bottom/0.23.1680.958@0.23.1680.958" timestamp="1582576754167" />
+    <state width="1186" height="241" key="GridCell.Tab.0.bottom/0.23.1680.960@0.23.1680.960" timestamp="1580865061031" />
+    <state width="1186" height="241" key="GridCell.Tab.0.center" timestamp="1582576754166">
+      <screen x="0" y="23" width="1680" height="958" />
+    </state>
+    <state width="1186" height="241" key="GridCell.Tab.0.center/0.23.1680.958@0.23.1680.958" timestamp="1582576754166" />
+    <state width="1186" height="241" key="GridCell.Tab.0.center/0.23.1680.960@0.23.1680.960" timestamp="1580865061031" />
+    <state width="1186" height="241" key="GridCell.Tab.0.left" timestamp="1582576754166">
+      <screen x="0" y="23" width="1680" height="958" />
+    </state>
+    <state width="1186" height="241" key="GridCell.Tab.0.left/0.23.1680.958@0.23.1680.958" timestamp="1582576754166" />
+    <state width="1186" height="241" key="GridCell.Tab.0.left/0.23.1680.960@0.23.1680.960" timestamp="1580865061030" />
+    <state width="1186" height="241" key="GridCell.Tab.0.right" timestamp="1582576754166">
+      <screen x="0" y="23" width="1680" height="958" />
+    </state>
+    <state width="1186" height="241" key="GridCell.Tab.0.right/0.23.1680.958@0.23.1680.958" timestamp="1582576754166" />
+    <state width="1186" height="241" key="GridCell.Tab.0.right/0.23.1680.960@0.23.1680.960" timestamp="1580865061031" />
+    <state x="491" y="321" key="com.intellij.ide.util.TipDialog" timestamp="1581040477849">
+      <screen x="0" y="23" width="1680" height="958" />
+    </state>
+    <state x="491" y="321" key="com.intellij.ide.util.TipDialog/0.23.1680.958@0.23.1680.958" timestamp="1581040477849" />
+  </component>
+</project>

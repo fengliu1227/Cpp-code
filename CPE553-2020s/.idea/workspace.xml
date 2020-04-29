@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="CPE553_2020s" targetName="553Assignment0101" />
+      <config projectName="CPE553_2020s" targetName="553Assignment0105" />
+      <config projectName="CPE553_2020s" targetName="553Assignment0104" />
+      <config projectName="CPE553_2020s" targetName="553Assignment0103" />
+      <config projectName="CPE553_2020s" targetName="553Assignment0102" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="20974cab-ee58-4a90-9d3c-58e722737f49" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="ProjectId" id="1X5nvYul339esERgKpSTeJ3r2aT" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunManager" selected="CMake Application.553Assignment0102">
+    <configuration name="553Assignment0101" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CPE553_2020s" TARGET_NAME="553Assignment0101" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CPE553_2020s" RUN_TARGET_NAME="553Assignment0101">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="553Assignment0102" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CPE553_2020s" TARGET_NAME="553Assignment0102" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CPE553_2020s" RUN_TARGET_NAME="553Assignment0102">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="553Assignment0103" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CPE553_2020s" TARGET_NAME="553Assignment0103" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CPE553_2020s" RUN_TARGET_NAME="553Assignment0103">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="553Assignment0104" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CPE553_2020s" TARGET_NAME="553Assignment0104" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CPE553_2020s" RUN_TARGET_NAME="553Assignment0104">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="553Assignment0105" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CPE553_2020s" TARGET_NAME="553Assignment0105" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CPE553_2020s" RUN_TARGET_NAME="553Assignment0105">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="CMake Application.553Assignment0101" />
+      <item itemvalue="CMake Application.553Assignment0102" />
+      <item itemvalue="CMake Application.553Assignment0103" />
+      <item itemvalue="CMake Application.553Assignment0104" />
+      <item itemvalue="CMake Application.553Assignment0105" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="20974cab-ee58-4a90-9d3c-58e722737f49" name="Default Changelist" comment="" />
+      <created>1580345053722</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580345053722</updated>
+      <workItem from="1580345054916" duration="131000" />
+      <workItem from="1580345230392" duration="2000" />
+      <workItem from="1580345268299" duration="641000" />
+      <workItem from="1580346106123" duration="23000" />
+      <workItem from="1580346261617" duration="20000" />
+      <workItem from="1580429723395" duration="1000" />
+      <workItem from="1580504029318" duration="271000" />
+      <workItem from="1580761269544" duration="14000" />
+      <workItem from="1580761307030" duration="491000" />
+      <workItem from="1580762083844" duration="22000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1358" height="244" key="GridCell.Tab.0.bottom" timestamp="1580761798564">
+      <screen x="0" y="23" width="1680" height="960" />
+    </state>
+    <state width="1358" height="244" key="GridCell.Tab.0.bottom/0.23.1680.958@0.23.1680.958" timestamp="1580505254402" />
+    <state width="1358" height="244" key="GridCell.Tab.0.bottom/0.23.1680.960@0.23.1680.960" timestamp="1580761798564" />
+    <state width="1358" height="244" key="GridCell.Tab.0.center" timestamp="1580761798563">
+      <screen x="0" y="23" width="1680" height="960" />
+    </state>
+    <state width="1358" height="244" key="GridCell.Tab.0.center/0.23.1680.958@0.23.1680.958" timestamp="1580505254401" />
+    <state width="1358" height="244" key="GridCell.Tab.0.center/0.23.1680.960@0.23.1680.960" timestamp="1580761798563" />
+    <state width="1358" height="244" key="GridCell.Tab.0.left" timestamp="1580761798563">
+      <screen x="0" y="23" width="1680" height="960" />
+    </state>
+    <state width="1358" height="244" key="GridCell.Tab.0.left/0.23.1680.958@0.23.1680.958" timestamp="1580505254401" />
+    <state width="1358" height="244" key="GridCell.Tab.0.left/0.23.1680.960@0.23.1680.960" timestamp="1580761798563" />
+    <state width="1358" height="244" key="GridCell.Tab.0.right" timestamp="1580761798564">
+      <screen x="0" y="23" width="1680" height="960" />
+    </state>
+    <state width="1358" height="244" key="GridCell.Tab.0.right/0.23.1680.958@0.23.1680.958" timestamp="1580505254402" />
+    <state width="1358" height="244" key="GridCell.Tab.0.right/0.23.1680.960@0.23.1680.960" timestamp="1580761798564" />
+    <state x="417" y="339" key="com.intellij.ide.util.TipDialog" timestamp="1580761270864">
+      <screen x="0" y="23" width="1680" height="961" />
+    </state>
+    <state x="417" y="338" key="com.intellij.ide.util.TipDialog/0.23.1680.958@0.23.1680.958" timestamp="1580504032643" />
+    <state x="417" y="339" key="com.intellij.ide.util.TipDialog/0.23.1680.961@0.23.1680.961" timestamp="1580761270864" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/../553Assignment01/Feng_Liu_HW1B.cpp</url>
+          <line>7</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

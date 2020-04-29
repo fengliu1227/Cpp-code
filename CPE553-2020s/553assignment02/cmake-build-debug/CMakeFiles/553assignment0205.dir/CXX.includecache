@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/fengliu/CLionProjects/553assignment02/Feng_Liu_HW2E_RobotLocationEstimator.cpp
+iostream
+-
+fstream
+-
+cmath
+-
+iomanip
+-
+

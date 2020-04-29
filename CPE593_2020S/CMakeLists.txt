@@ -1,0 +1,18 @@
+cmake_minimum_required(VERSION 3.15)
+project(CPE593_2020S)
+
+set(CMAKE_CXX_STANDARD 14)
+
+add_executable(CPE593_2020S01 LiuF_1.cpp)
+add_executable(CPE593_2020S02 1.cpp)
+add_executable(CPE593_2020S03 LiuF_2.cpp)
+add_executable(CPE593_2020S04 2.cpp)
+add_executable(CPE593_2020S05 2_1.cpp)
+add_executable(CPE593_2020S06 2_2.cpp)
+add_executable(CPE593_2020S07 test.cpp)
+add_executable(CPE593_2020S08 LiuF_3.cpp)
+add_executable(CPE593_2020S09 LiuF_2test.cpp)
+add_executable(CPE593_2020S010 3.cpp)
+add_executable(CPE593_2020S011 LiuF_4.cpp)
+add_executable(CPE593_2020S012 YITIAN_hw4_593.cpp)
+add_executable(CPE593_2020S013 LiuF_5.cpp)

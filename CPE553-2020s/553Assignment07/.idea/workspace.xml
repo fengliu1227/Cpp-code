@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="553Assignment08" targetName="553Assignment0706" />
+      <config projectName="553Assignment08" targetName="553Assignment0705" />
+      <config projectName="553Assignment08" targetName="553Assignment0704" />
+      <config projectName="553Assignment08" targetName="553Assignment0703" />
+      <config projectName="553Assignment08" targetName="553Assignment0702" />
+      <config projectName="553Assignment08" targetName="553Assignment0701" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d06ab932-a504-441f-9465-14c47e72d693" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="ProjectId" id="1ZgwYEeKErIWiMMpF8BGeL0P9tv" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RunManager" selected="CMake Application.553Assignment0705">
+    <configuration name="553Assignment0701" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="553Assignment08" TARGET_NAME="553Assignment0701" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="553Assignment08" RUN_TARGET_NAME="553Assignment0701">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="553Assignment0702" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="553Assignment08" TARGET_NAME="553Assignment0702" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="553Assignment08" RUN_TARGET_NAME="553Assignment0702">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="553Assignment0703" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="553Assignment08" TARGET_NAME="553Assignment0703" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="553Assignment08" RUN_TARGET_NAME="553Assignment0703">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="553Assignment0704" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="553Assignment08" TARGET_NAME="553Assignment0704" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="553Assignment08" RUN_TARGET_NAME="553Assignment0704">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="553Assignment0705" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="553Assignment08" TARGET_NAME="553Assignment0705" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="553Assignment08" RUN_TARGET_NAME="553Assignment0705">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="553Assignment0706" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="553Assignment08" TARGET_NAME="553Assignment0706" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="553Assignment08" RUN_TARGET_NAME="553Assignment0706">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="CMake Application.553Assignment0701" />
+      <item itemvalue="CMake Application.553Assignment0702" />
+      <item itemvalue="CMake Application.553Assignment0703" />
+      <item itemvalue="CMake Application.553Assignment0704" />
+      <item itemvalue="CMake Application.553Assignment0705" />
+      <item itemvalue="CMake Application.553Assignment0706" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d06ab932-a504-441f-9465-14c47e72d693" name="Default Changelist" comment="" />
+      <created>1585274090860</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585274090860</updated>
+      <workItem from="1585274094545" duration="4352000" />
+      <workItem from="1585279588610" duration="799000" />
+      <workItem from="1585280464540" duration="117000" />
+      <workItem from="1585866882432" duration="9885000" />
+      <workItem from="1587245838487" duration="7000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="316" y="261" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1585277138182">
+      <screen x="0" y="23" width="1680" height="958" />
+    </state>
+    <state x="316" y="261" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1680.958@0.23.1680.958" timestamp="1585277138182" />
+    <state width="1113" height="254" key="GridCell.Tab.0.bottom" timestamp="1585878040221">
+      <screen x="0" y="23" width="1680" height="958" />
+    </state>
+    <state width="1113" height="254" key="GridCell.Tab.0.bottom/0.23.1680.958@0.23.1680.958" timestamp="1585878040221" />
+    <state width="1113" height="254" key="GridCell.Tab.0.bottom/0.23.1680.960@0.23.1680.960" timestamp="1585279050811" />
+    <state width="1113" height="254" key="GridCell.Tab.0.center" timestamp="1585878040220">
+      <screen x="0" y="23" width="1680" height="958" />
+    </state>
+    <state width="1113" height="254" key="GridCell.Tab.0.center/0.23.1680.958@0.23.1680.958" timestamp="1585878040220" />
+    <state width="1113" height="254" key="GridCell.Tab.0.center/0.23.1680.960@0.23.1680.960" timestamp="1585279050810" />
+    <state width="1113" height="254" key="GridCell.Tab.0.left" timestamp="1585878040220">
+      <screen x="0" y="23" width="1680" height="958" />
+    </state>
+    <state width="1113" height="254" key="GridCell.Tab.0.left/0.23.1680.958@0.23.1680.958" timestamp="1585878040220" />
+    <state width="1113" height="254" key="GridCell.Tab.0.left/0.23.1680.960@0.23.1680.960" timestamp="1585279050810" />
+    <state width="1113" height="254" key="GridCell.Tab.0.right" timestamp="1585878040221">
+      <screen x="0" y="23" width="1680" height="958" />
+    </state>
+    <state width="1113" height="254" key="GridCell.Tab.0.right/0.23.1680.958@0.23.1680.958" timestamp="1585878040221" />
+    <state width="1113" height="254" key="GridCell.Tab.0.right/0.23.1680.960@0.23.1680.960" timestamp="1585279050811" />
+    <state x="517" y="334" key="com.intellij.ide.util.TipDialog" timestamp="1585866968277">
+      <screen x="0" y="23" width="1680" height="958" />
+    </state>
+    <state x="517" y="334" key="com.intellij.ide.util.TipDialog/0.23.1680.958@0.23.1680.958" timestamp="1585866968277" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/main.cpp</url>
+          <line>2</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

@@ -1,0 +1,4 @@
+/Users/fengliu/CLionProjects/553assignment05/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/fengliu/CLionProjects/553assignment05/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/fengliu/CLionProjects/553assignment05/cmake-build-debug/CMakeFiles/553assignment0502.dir
+/Users/fengliu/CLionProjects/553assignment05/cmake-build-debug/CMakeFiles/553assignment0501.dir

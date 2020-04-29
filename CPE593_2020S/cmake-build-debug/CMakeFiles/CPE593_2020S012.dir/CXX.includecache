@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/fengliu/CLionProjects/CPE593_2020S/YITIAN_hw4_593.cpp
+iostream
+-
+fstream
+-
+iomanip
+-
+chrono
+-
+math.h
+-
+

@@ -1,0 +1,10 @@
+cmake_minimum_required(VERSION 3.15)
+project(553assignment02)
+
+set(CMAKE_CXX_STANDARD 14)
+
+add_executable(553assignment0201 Feng_Liu_HW1F_MysterySum.cpp)
+add_executable(553assignment0202 Feng_Liu_HW2A_WindChill.cpp)
+add_executable(553assignment0203 Feng_Liu_HW2B_prime.cpp)
+add_executable(553assignment0204 Feng_Liu_HW2C_MultiplePrimes.cpp)
+add_executable(553assignment0205 Feng_Liu_HW2E_RobotLocationEstimator.cpp)

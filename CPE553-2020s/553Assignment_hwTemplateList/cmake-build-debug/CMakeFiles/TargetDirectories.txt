@@ -1,0 +1,4 @@
+/Users/fengliu/CLionProjects/553Assignment_hwTemplateList/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/fengliu/CLionProjects/553Assignment_hwTemplateList/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/fengliu/CLionProjects/553Assignment_hwTemplateList/cmake-build-debug/CMakeFiles/553Assignment_hwTemplateList02.dir
+/Users/fengliu/CLionProjects/553Assignment_hwTemplateList/cmake-build-debug/CMakeFiles/553Assignment_hwTemplateList01.dir

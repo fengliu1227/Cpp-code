@@ -1,0 +1,13 @@
+cmake_minimum_required(VERSION 3.15)
+project(553Assignment03)
+
+set(CMAKE_CXX_STANDARD 14)
+
+add_executable(553Assignment0301 Feng_Liu_HW3B_ArrayStatistics.cpp)
+add_executable(553Assignment0302 Feng_Liu_HW3C_ReadSpreadsheet.cpp)
+add_executable(553Assignment0303 Feng_Liu_HW3B_GameOfLife.cpp)
+add_executable(553Assignment0304 Feng_Liu_HW2F_Fuctions.cpp)
+add_executable(553Assignment0305 Feng_Liu_HW2F_Fuctions.cpp)
+add_executable(553Assignment0306 Create_dat.cpp)
+add_executable(553Assignment0307 001.cpp)
+add_executable(553Assignment0308 gametest.cpp)

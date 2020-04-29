@@ -1,0 +1,3 @@
+/Users/fengliu/CLionProjects/myspellcheck/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/fengliu/CLionProjects/myspellcheck/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/fengliu/CLionProjects/myspellcheck/cmake-build-debug/CMakeFiles/myspellcheck.dir

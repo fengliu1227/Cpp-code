@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="553assignment04"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/fengliu/CLionProjects/553assignment04/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/fengliu/CLionProjects/553assignment04/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/fengliu/CLionProjects/553assignment04/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/fengliu/CLionProjects/553assignment04/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/fengliu/CLionProjects/553assignment04/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/fengliu/CLionProjects/553assignment04/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/fengliu/CLionProjects/553assignment04/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/fengliu/CLionProjects/553assignment04/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/fengliu/CLionProjects/553assignment04/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/fengliu/CLionProjects/553assignment04/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="553assignment0403">
+				<Option output="/Users/fengliu/CLionProjects/553assignment04/cmake-build-debug/553assignment0403" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/fengliu/CLionProjects/553assignment04/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/fengliu/CLionProjects/553assignment04/cmake-build-debug/Makefile&quot;  VERBOSE=1 553assignment0403"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/fengliu/CLionProjects/553assignment04/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/fengliu/CLionProjects/553assignment04/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/fengliu/CLionProjects/553assignment04/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="553assignment0403/fast">
+				<Option output="/Users/fengliu/CLionProjects/553assignment04/cmake-build-debug/553assignment0403" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/fengliu/CLionProjects/553assignment04/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/fengliu/CLionProjects/553assignment04/cmake-build-debug/Makefile&quot;  VERBOSE=1 553assignment0403/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/fengliu/CLionProjects/553assignment04/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/fengliu/CLionProjects/553assignment04/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/fengliu/CLionProjects/553assignment04/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="553assignment0404">
+				<Option output="/Users/fengliu/CLionProjects/553assignment04/cmake-build-debug/553assignment0404" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/fengliu/CLionProjects/553assignment04/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/fengliu/CLionProjects/553assignment04/cmake-build-debug/Makefile&quot;  VERBOSE=1 553assignment0404"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/fengliu/CLionProjects/553assignment04/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/fengliu/CLionProjects/553assignment04/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/fengliu/CLionProjects/553assignment04/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="553assignment0404/fast">
+				<Option output="/Users/fengliu/CLionProjects/553assignment04/cmake-build-debug/553assignment0404" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/fengliu/CLionProjects/553assignment04/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/fengliu/CLionProjects/553assignment04/cmake-build-debug/Makefile&quot;  VERBOSE=1 553assignment0404/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/fengliu/CLionProjects/553assignment04/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/fengliu/CLionProjects/553assignment04/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/fengliu/CLionProjects/553assignment04/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/fengliu/CLionProjects/553assignment04/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/fengliu/CLionProjects/553assignment04/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/fengliu/CLionProjects/553assignment04/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/fengliu/CLionProjects/553assignment04/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/fengliu/CLionProjects/553assignment04/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="553assignment0402">
+				<Option output="/Users/fengliu/CLionProjects/553assignment04/cmake-build-debug/553assignment0402" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/fengliu/CLionProjects/553assignment04/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/fengliu/CLionProjects/553assignment04/cmake-build-debug/Makefile&quot;  VERBOSE=1 553assignment0402"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/fengliu/CLionProjects/553assignment04/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/fengliu/CLionProjects/553assignment04/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/fengliu/CLionProjects/553assignment04/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="553assignment0402/fast">
+				<Option output="/Users/fengliu/CLionProjects/553assignment04/cmake-build-debug/553assignment0402" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/fengliu/CLionProjects/553assignment04/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/fengliu/CLionProjects/553assignment04/cmake-build-debug/Makefile&quot;  VERBOSE=1 553assignment0402/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/fengliu/CLionProjects/553assignment04/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/fengliu/CLionProjects/553assignment04/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/fengliu/CLionProjects/553assignment04/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="553assignment0401">
+				<Option output="/Users/fengliu/CLionProjects/553assignment04/cmake-build-debug/553assignment0401" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/fengliu/CLionProjects/553assignment04/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/fengliu/CLionProjects/553assignment04/cmake-build-debug/Makefile&quot;  VERBOSE=1 553assignment0401"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/fengliu/CLionProjects/553assignment04/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/fengliu/CLionProjects/553assignment04/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/fengliu/CLionProjects/553assignment04/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="553assignment0401/fast">
+				<Option output="/Users/fengliu/CLionProjects/553assignment04/cmake-build-debug/553assignment0401" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/fengliu/CLionProjects/553assignment04/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/fengliu/CLionProjects/553assignment04/cmake-build-debug/Makefile&quot;  VERBOSE=1 553assignment0401/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/fengliu/CLionProjects/553assignment04/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/fengliu/CLionProjects/553assignment04/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/fengliu/CLionProjects/553assignment04/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/fengliu/CLionProjects/553assignment04/Feng_Liu_HW3A_ComplexMath.cpp">
+			<Option target="553assignment0401"/>
+		</Unit>
+		<Unit filename="/Users/fengliu/CLionProjects/553assignment04/Feng_Liu_HW3C_SolarBody.cpp">
+			<Option target="553assignment0402"/>
+		</Unit>
+		<Unit filename="/Users/fengliu/CLionProjects/553assignment04/Feng_Liu_HW4A_Fraction.cpp">
+			<Option target="553assignment0403"/>
+		</Unit>
+		<Unit filename="/Users/fengliu/CLionProjects/553assignment04/testmid.cpp">
+			<Option target="553assignment0404"/>
+		</Unit>
+		<Unit filename="/Users/fengliu/CLionProjects/553assignment04/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

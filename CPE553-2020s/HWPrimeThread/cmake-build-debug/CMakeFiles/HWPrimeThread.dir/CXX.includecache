@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/fengliu/CLionProjects/HWPrimeThread/PrimeThread_FengLiu.cpp
+iostream
+-
+thread
+-
+unistd.h
+-
+chrono
+-
+cmath
+-
+

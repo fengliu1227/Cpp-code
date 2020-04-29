@@ -1,0 +1,5 @@
+#n		randomized_selection		counting_sort		bucket_sort
+10            9033                      805          25180
+100           1135                      664           9321
+500            988                      968           8868
+1000          1629                     1439          10277
